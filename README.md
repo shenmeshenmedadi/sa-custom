@@ -41,5 +41,3 @@ https://raw.githubusercontent.com/pipi20xx/555999/refs/heads/main/anime/animeifr
 
 (S\d+E\d+)(.*)\b(E.\d+)\b => \1\2[\3]
 
-
-请问的无群多无群多无群
