@@ -1,4 +1,3 @@
-(?i)\bBaha\b => Baha
 jibaketa => jibaketa-粤语版
 (?i)\bPCSUB\b => 波洛咖啡厅
 (?i)\bImoeer\b => 启萌字幕组
@@ -51,6 +50,7 @@ AKito => AKito秋人
 (?i)\bMabors Sub\b|幻之字幕组|幻之 => 幻之字幕组
 (?i)\bsuzume Ryokosha\b => 玲芽旅行团
 (?i)\bHaruhana\b => ❀拨雪寻春❀
+\b拨雪寻春\b => ❀拨雪寻春❀
 (?i)\bMingYSub\b|\bMingY\b => MingYSub
 (?i)\bLemonade\b => 波子汽水汉化组
 (?i)\bXKsub\b|(?i)\bXK SPIRITS\b|星空字幕組 => 星空字幕组
@@ -90,12 +90,6 @@ Billion Meta Lab|\bBML\b => 亿次研同好会
 (?i)\bMoezakuraSub\b => 萌樱字幕组
 (?i)\bYunFog\b => 云歌字幕组
 (?i)\bSTK\b => 生徒会字幕组
-(?<=[\W_])CR(?=[\W_]) => Crunchyroll
-(?<=[\W_])NF(?=[\W_]) => Netflix
-(?<=[\W_])AMZN(?=[\W_]) => Amazon
-(?<=[\W_])DV(?=[\W_]) => DoVi
-(?<=[\W_])ATVP(?=[\W_]) => AppleTV+
-(?<=[\W_])DSNP(?=[\W_]) => Disney+
 (?i)\bYumezukuri\b => 织梦字幕组
 (?i)\bWMSUB\b => 风车字幕组
 (?i)\bObserver Station\b => 神椿观测站
@@ -105,3 +99,11 @@ Billion Meta Lab|\bBML\b => 亿次研同好会
 (?i)\b三明治擺爛組\b|(?i)\bsmzase\b => 三明治摆烂组
 (?i)\bOguriClub\b => 小栗帽后援会
 (?i)\bNJworkshop\b => 虹作坊汉化组
+(?i)\Snow-Raws\b  => 花园压制组
+(?i)\bSkymoon-Raws\b => 天月动漫发布组
+(?i)\bMagicStar\b => 魔星字幕团
+(?i)\bFatCatRAW\b| => 肥猫压制
+(?i)\bDAY脳FSD\b => DAY字幕组×FSD炸鸽社
+(?i)\bFeibanyama\b => 沸班亚马制作组
+(?i)\bTsukigakirei\b => 今晚月色真美
+(?i)\bDBD-Raws\b => DBD制作组
