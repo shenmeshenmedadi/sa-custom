@@ -20,7 +20,6 @@ RoxyLib => 洛琪希图书馆
 (?i)\bSumiSora\b|澄空學園 => 澄空学园
 (?i)\bYYDM-11FANS\b => 异域-11番小队
 康复重症 => 康复重症监护室字幕组
-ABMA => Abema
 (?i)\bLKSUB\b => 轻之国度字幕组
 \[Eternal\] => [永恒译制]
 xiaopie@CHDWEB => CHDWEB
